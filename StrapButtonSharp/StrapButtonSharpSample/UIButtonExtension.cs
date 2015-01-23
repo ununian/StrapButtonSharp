@@ -28,11 +28,11 @@ namespace StrapButtonSharp
             var title = String.Empty;
             if (befor)
             {
-                title = self.TitleLabel.Text + " " + iconString;
+                title = iconString + " " + self.TitleLabel.Text;
             }
             else
-            {
-                title = iconString + " " + self.TitleLabel.Text;
+            { 
+                title = self.TitleLabel.Text + " " + iconString;
             }
             self.SetTitle(title, UIControlState.Normal);
         }

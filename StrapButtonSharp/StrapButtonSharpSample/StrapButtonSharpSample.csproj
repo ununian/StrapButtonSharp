@@ -87,6 +87,7 @@
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <BundleResource Include="FontAwesome.ttf" />
+    <Compile Include="UIButtonExtension.cs" />
     <None Include="Info.plist">
       <SubType>Designer</SubType>
     </None>
@@ -108,13 +109,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Entitlements.plist" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\StrapButtonSharp\StrapButtonSharp.csproj">
-      <Project>{6d94aafb-3fab-4bec-a7c3-e66f439af528}</Project>
-      <Name>StrapButtonSharp</Name>
-      <IsAppExtension>false</IsAppExtension>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
