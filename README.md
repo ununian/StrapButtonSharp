@@ -40,7 +40,7 @@ After your modification, the Info.plist may like this:
 		<string>com.your-company.StrapButtonSharpSample</string>
 		.................
 ```
- These modification tells the iOS operation that we want to use a custom font.
+ These modifications tells the iOS operation that we want to use a custom font.
 	
   • Copy UIButtonExtension to any of directories in your project directly.
 
