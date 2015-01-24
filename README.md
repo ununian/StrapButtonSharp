@@ -1,6 +1,6 @@
 ## StrapButtonSharp
 
-[StrapButtonSharp](https://github.com/unhappy224/StrapButtonSharp) For Xamarin.iOS 
+[UIButton-Bootstrap](https://github.com/unhappy224/StrapButtonSharp) For Xamarin.iOS 
 
 ## Introduction
 
