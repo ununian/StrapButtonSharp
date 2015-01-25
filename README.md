@@ -1,6 +1,6 @@
 ## StrapButtonSharp
 
-[StrapButtonSharp](https://github.com/unhappy224/StrapButtonSharp) For Xamarin.iOS 
+[UIButton-Bootstrap](https://github.com/OskarGroth/UIButton-Bootstrap) For Xamarin.iOS 
 
 ## Introduction
 
@@ -45,7 +45,7 @@ After your modification, the Info.plist may like this:
   • Copy UIButtonExtension to any of directories in your project directly.
 
 ## How to use
-  • Let UIButton to use Bootstrap style:
+  • Apply Bootstrap style to your UIButton:
 ```CSharp
 	yourButton.DefaultStyle();
 	yourButton.PrimaryStyle();
