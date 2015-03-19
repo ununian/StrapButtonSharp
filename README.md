@@ -30,10 +30,7 @@ After your modification, the Info.plist may like this:
 	  <key>UIAppFonts</key>
 	  <array>
 		<string>FontAwesome.ttf</string>
-	  </array><key>UIAppFonts</key>
-		<array>
-			<string>FontAwesome.ttf</string>
-		</array>
+	  </array 
 		<key>CFBundleDisplayName</key>
 		<string>StrapButtonSharpSample</string>
 		<key>CFBundleIdentifier</key>
@@ -82,10 +79,7 @@ StrapButtonSharp是UIButton-Bootstrap在Xamarin.iOS上的移植。
 	  <key>UIAppFonts</key>
 	  <array>
 		<string>FontAwesome.ttf</string>
-	  </array><key>UIAppFonts</key>
-		<array>
-			<string>FontAwesome.ttf</string>
-		</array>
+	  </array>
 		<key>CFBundleDisplayName</key>
 		<string>StrapButtonSharpSample</string>
 		<key>CFBundleIdentifier</key>
