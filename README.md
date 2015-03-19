@@ -30,7 +30,7 @@ After your modification, the Info.plist may like this:
 	  <key>UIAppFonts</key>
 	  <array>
 		<string>FontAwesome.ttf</string>
-	  </array 
+	  </array>
 		<key>CFBundleDisplayName</key>
 		<string>StrapButtonSharpSample</string>
 		<key>CFBundleIdentifier</key>
